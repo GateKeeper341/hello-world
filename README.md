@@ -1,2 +1,4 @@
 # hello-world
-What's out there?
+
+TC here, I'm here to learn more about computers and learn to code.
+seems alright so far.
